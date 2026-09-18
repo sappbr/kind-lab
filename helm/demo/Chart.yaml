@@ -1,0 +1,6 @@
+apiVersion: v2
+name: demo-web
+description: Thin Helm wrapper for kind-lab demo web
+type: application
+version: 0.1.0
+appVersion: "1.27"
